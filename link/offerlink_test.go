@@ -17,7 +17,7 @@ func TestAddToTail(t *testing.T) {
 
 func TestPrintListReversingly_Iteratively(t *testing.T) {
 	pHead := &ListNode{
-		m_nValue:1,
+		M_nValue: 1,
 	}
 	PrintListReversingly_Iteratively(pHead)
 }
